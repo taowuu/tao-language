@@ -131,5 +131,49 @@
 - 説明, 说明, setsumei
 - 葉, 叶, ha
 - 乗り物, 交通工具, norimono
+- 知らせる, 通知, shiraseru
+- 以上, 高于, ijou
+- 味, 味道, aji
+- 曇, 云, kumo
+- 治る, 病愈, naoru
+- 席, 座位, seki
+- 寝坊, 睡过头, nebou
+- 彼ら, 他们, karera
+- 捕まえる, 抓住, tsukamaeru
+- 失敗, 失败, shippai
+- ガス, 瓦斯, gasu
+- 火事, 火灾, kaji
+- 乗り換える, 换乘, norikaeru
+- 女性, 女性, josei
+- 踏む, 踩, fumu
+- 都合, 情况、理由, tsugou
+- 港, 港口, minato
+- ガラス, 玻璃, garasu
+- 台風, 台风, taifuu
+- それほど, 那样, sorehodo
+- タイプ, 类型, taipu
+- これから, 接下来, korekara
+- 通う, 通勤, kayou
+- 鏡, 镜子, kagami
+- 熱心, 热情, nesshinn
+- 十分, 充分, juubunn
+- したくする, 准备, shitakusuru
+- いじめる, 欺负, ijimeru
+- 止める, 使停止, tomeru
+- 米, 大米, kome
+- 科学, 科学, kagaku
+- 大学生, 大学生, daigakusei
+
+
+
+
+
+
+
+
+
+
+
+
 
 
