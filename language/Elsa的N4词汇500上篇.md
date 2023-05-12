@@ -163,17 +163,88 @@
 - 米, 大米, kome
 - 科学, 科学, kagaku
 - 大学生, 大学生, daigakusei
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- 形, 形状, katachi
+- アジア, 亚洲, ajia
+- 美しい, 美丽的, utsukushii
+- 売り場, 商城, uriba
+- はっきり, 明确, hakkiri
+- 眠る, 睡觉, nemuru
+- 泊まる, 住宿, tomaru
+- 慎重, 重要的, daiji
+- 受ける, 接受, ukeru
+- 出席する, 出席, shussekisuru
+- 嚙む, 咬, kamu
+- 込む, 拥挤, komu
+- 飾る, 装饰, kazaru
+- 向かう, 朝向, mukau
+- ステレオ, 立体声, sutereo
+- 大体, 大概, daitai
+- 濡れると, 沾湿, nureru
+- 砂, 沙子, suna
+- 届ける, 到达, todokeru
+- 退院, 出院, taiinn
+- 硬い, 硬的, katai
+- 捨てる, 扔掉, suteru
+- 迎える, 迎接, mukaeru
+- 趣味, 兴趣, shumi
+- 裏, 背面, ura
+- 答え, 回答, kotae
+- 大抵, 大概, taitei
+- 部長, 部长, buchou
+- 明日, 明天, asu
+- 昔, 过去, mukashi
+- 出発する, 出发, shuppatsusuru
+- ごみ, 垃圾, gomi
+- 途中, 途中, tochuu
+- 腕, 胳膊, ude
+- 夢, 梦, yume
+- 虫, 虫子, mushi
+- しっかり, 可靠, shikkari
+- 噓, 谎言, uso
+- 特急, 特快列车, takkyuu
+- ガソリンスタンド, 加油站, gasorinnsutanndo
+- そろそろ, 就要, sorosoro
+- 駐車場, 停车场, chuushajou
+- 課長, 课长, kachou
+- 故障する, 出故障, koshousuru
+- 注射, 注射, chusha
+- 急ぐ, 赶紧, isogu
+- 珍しい, 珍奇的, mezurashii
+- 贈り物, 礼物, okurimono
+- 冷房, 冷气设备, reibou
+- 最も, 最, mottomo
+- 地理, 地理, chiri
+- 中学校, 中学, chuugakkou
+- 帰り, 回家, kaeri
+- 揺れる, 摇晃, yureru
+- 写す, 抄写、拍照, utsusu
+- 褒める, 表扬, homeru
+- アナウンサー, 播音员, anaunnsa-
+- 片付ける, 收拾, katadukeru
+- 用意, 准备, youi
+- 召し上がる, 吃、喝, meshiagaru
+- 屋上, 屋顶, okujou
+- 用事, 事情, youji
+- 細かい, 细小的, komakai
+- うまい, 好吃的, umai
+- 指, 手指, yubi
+- 遊び, 玩耍, asobi
+- レジ, 收银台, reji
+- 沸かす, 煮沸, wakasu
+- 下りる, 下来、降落, oriru
+- 連絡, 联络, renraku
+- 特に, 特别, tokuni
+- 会話, 会话, kaiwa
+- 動く, 移动, ugoku
+- 石, 石头, ishi
+- 小鳥, 小岛, kotori
+- 特别, 特别的, tokubetsu
+- 打つ, 击打, utsu
+- 床屋, 理发店, tokoya
+- 復習, 复习, fukushuu
+- 億, 亿, oku
+- 髪, 头发, kami
+- 森, 森林, mori
+- 注意, 注意, chuui
+- おかしい, 可笑的、可疑的, okashii
+- 戻る, 返回, modoru
